@@ -1,5 +1,7 @@
 # Neo4j Context Provider for Microsoft Agent Framework
 
+> This is an experimental Neo4j Labs project and not part of Neo4j's supported product lineup. See the [Neo4j Labs disclaimer](./LABS_DISCLAIMER.txt).
+
 A context provider that enables AI agents to retrieve knowledge from Neo4j graph databases. Works with the [Microsoft Agent Framework](https://aka.ms/agent-framework).
 
 ## What is a Context Provider?
